@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "contact-list",
+    "name": "Lista de Contatos",
     "slug": "contact-list",
     "privacy": "public",
     "sdkVersion": "32.0.0",
